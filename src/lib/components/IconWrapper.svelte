@@ -1,7 +1,7 @@
 <script>
-	export let href;
+	export let href = '#';
 	export let tooltip;
-	export let tooltip_direction;
+	export let tooltip_direction = 'bottom';
 </script>
 
 <a

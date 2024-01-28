@@ -30,13 +30,9 @@
 		<footer class="w-100 bottom-0 p-0">
 			<hr />
 			<div class="flex justify-between p-2">
-				<p class="text-white m-0">Copyright © PhilipSCA 2023</p>
+				<p class="text-white m-0">Copyright © PhilipSCA 2024</p>
 				<p class="text-white m-0">
-					<IconWrapper
-						href="mailto:{$emailAddress}"
-						tooltip="Get in touch"
-						tooltip_direction="left"
-					>
+					<IconWrapper href="mailto:{$emailAddress}" tooltip="Email Me" tooltip_direction="left">
 						<Icon icon="mdi:email" width="32" height="32" />
 					</IconWrapper>
 				</p>
