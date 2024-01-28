@@ -4,4 +4,4 @@ This project contains the code for my personal portfolio, built using SvelteKit 
 
 ## Preview
 
-https://philipsca-me.vercel.app/
+https://philipsca.me/
