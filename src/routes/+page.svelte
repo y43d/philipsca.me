@@ -62,15 +62,13 @@
 	<!-- INTRODUCTION    -->
 	<div class="flex justify-center pb-5">
 		<h1 class="animate-bounce m-0 text-5xl">👋🏽</h1>
-		<h1 class="font-sans m-0 text-5xl">Hey.</h1>
+		<h1 class="font-sans m-0 text-5xl">Hello!</h1>
 	</div>
 	<div class="flex flex-col items-center">
 		<p class="m-0 text-2xl text-white">
-			My name is <strong class="text-blue-200">Philip</strong>.
+			My name is <strong class="text-blue-200">Philip</strong>,
 		</p>
-		<p class="m-0 text-lg text-center">
-			And I'm <strong>more</strong> than capable creating websites & web apps.
-		</p>
+		<p class="m-0 text-lg text-center">I'm a professional & flexible web site/app developer.</p>
 	</div>
 
 	<!-- SOCIAL LINKS -->
@@ -168,7 +166,7 @@
 	<Separator />
 
 	<!-- NEED A WEBSITE? -->
-	<div class="flex flex-col items-center">
+	<div class="flex flex-col items-center" id="contact">
 		<p class="text-2xl text-white mb-0">Get in touch.</p>
 		<p class="text-center">
 			Let me know your requirements for your upcoming application, this can range from a basic

@@ -18,7 +18,7 @@
 			<ul>
 				<li><a href="#projects" class="text-blue-200 hover:text-blue-400">Projects</a></li>
 				<li>
-					<a href="mailto:{$emailAddress}" class="text-blue-200 hover:text-blue-400">Contact</a>
+					<a href="#contact" class="text-blue-200 hover:text-blue-400">Contact</a>
 				</li>
 			</ul>
 		</nav>
