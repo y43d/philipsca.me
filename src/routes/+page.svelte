@@ -12,7 +12,7 @@
 	async function submitForm(e) {
 		waitingForFormResponse = true;
 		const formData = new FormData(e.target);
-		const response = await fetch('https://api.staticforms.xyz/submit2', {
+		const response = await fetch('https://api.staticforms.xyz/submit', {
 			method: 'POST',
 			body: new URLSearchParams(formData),
 			headers: {
